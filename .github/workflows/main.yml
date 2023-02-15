@@ -20,4 +20,4 @@ jobs:
         key: ${{ secrets.SERVER_SSH_KEY }}
         script: |
           cd /var/www
-          git clone https://github.com/your-username/your-repo.git
+          git clone https://github.com/aafaqf1/pythonProject5.git
